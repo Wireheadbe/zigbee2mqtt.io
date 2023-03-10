@@ -23,7 +23,10 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
+## Notes
 
+### Firmware Update
+These NodOn modules also contain a Bluetooth chip. There's an application named "NodOn Connect" in various app stores. This application allows you to update the firmware of these devices via Bluetooth
 
 <!-- Notes END: Do not edit below this line -->
 
